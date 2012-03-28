@@ -2,3 +2,4 @@
 
 - metody numeryczne
 - rozwi¹zywanie zadañ róŸniczkowych za pomoc¹ komputerowej implementacji algorytmu EULERA
+- implementacja widgetu do rysowania wykresow

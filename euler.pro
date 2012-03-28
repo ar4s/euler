@@ -11,8 +11,13 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    wykres.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    wykres.h
 
 FORMS    += mainwindow.ui
+
+OTHER_FILES += \
+    README.txt
